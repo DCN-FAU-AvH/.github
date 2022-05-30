@@ -2,14 +2,14 @@
 
 
 
-# Python code
+### Python code
 [DCN computational lab for machine learning]
 
-# MATLAB code
+### MATLAB code
 [RBM-MPC](TODO)
 
-# Templates
+### Templates
 [DCN poster template](https://github.com/DCN-FAU/DCN_poster_template.git)
 
-# Other
+### Other
 [Sheep herding game](https://github.com/danielveldman/sheep_herding_game.git)

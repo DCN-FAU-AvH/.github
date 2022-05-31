@@ -12,5 +12,5 @@
 
 [Practical course: modeling, simulation, optimization (SS2022)](https://github.com/DCN-FAU/practical_course_SS2022.git)
 
-### Other
+### Other 123
 [Sheep herding game](https://github.com/danielveldman/sheep_herding_game.git)

@@ -2,7 +2,7 @@
 
 ### Tutorials
 
-### Scientific codes
+### Codes
 
 ### Templates
 [DCN poster template](https://github.com/DCN-FAU/DCN_poster_template.git)

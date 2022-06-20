@@ -5,6 +5,7 @@
 
 ### Codes
 [Lloyd's algorithm](https://github.com/DCN-FAU/Lloyds-algorithm)
+
 [Model Predictive Control](https://github.com/danielveldman/lq_mpc)
 
 ### Templates

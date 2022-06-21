@@ -4,9 +4,9 @@
 [neural ODEs](https://github.com/DCN-FAU/robust_neuralODE)
 
 ### Codes
-[Lloyd's algorithm](https://github.com/DCN-FAU/Lloyds-algorithm)
+[Lloyd's algorithm for the computation of Voronoi diagrams](https://github.com/DCN-FAU/Lloyds-algorithm)
 
-[Model Predictive Control](https://github.com/danielveldman/lq_mpc)
+[Model Predictive Control for Discretized Heat and Wave Equations](https://github.com/danielveldman/lq_mpc)
 
 ### Templates
 [DCN poster template](https://github.com/DCN-FAU/DCN_poster_template.git)

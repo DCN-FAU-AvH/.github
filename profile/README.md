@@ -6,6 +6,8 @@
 ### Codes
 [Lloyd's algorithm for the computation of Voronoi diagrams](https://github.com/DCN-FAU/Lloyds-algorithm)
 
+[The Random Batch Method in Linear Quadratic Optimal Control](https://github.com/danielveldman/rbm_lq)
+
 [Model Predictive Control for Discretized Heat and Wave Equations](https://github.com/danielveldman/lq_mpc)
 
 ### Templates

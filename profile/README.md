@@ -1,6 +1,6 @@
-## Welcome to the DCN-FAU github
+# Welcome to the DCN-FAU github
 
-### Tutorials
+## Tutorials
 <table style="padding:10px">
   <tr>
     <td width=250px align="center"> <img src="https://github.com/DCN-FAU-AvH/robust_neuralODE/blob/master/trajectory.gif" height = 150px ></td>
@@ -8,7 +8,7 @@
   </tr>
 </table>
 
-### Codes
+## Codes
 
 <table style="padding:10px">
   <tr>
@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-### Templates
+## Templates
 <table style="padding:10px">
   <tr>
     <td width=250px align="center"> <img src="https://github.com/DCN-FAU-AvH/DCN_poster_template/blob/main/poster_icon.PNG" height = 150px ></td>
@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-### Other
+## Other
 <table style="padding:10px">
   <tr>
     <td width=250px align="center"> <img src="https://github.com/danielveldman/sheep_herding_game/blob/main/screen_shot.PNG" height=150px></td>

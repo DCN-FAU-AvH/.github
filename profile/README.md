@@ -1,7 +1,13 @@
 ## Welcome to the DCN-FAU github
 
 ### Tutorials
-[Training of neural ODEs using pyTorch](https://github.com/DCN-FAU/robust_neuralODE)
+<table width = "100%">
+  <tr width = "100%">
+    <td width="30%"> <img src="/robust_neuralODE/blob/master/trajectory.giff"  ></td>
+    <td width="70%"> <a href="/robust_neuralODE">Training of neural ODEs using pyTorch</a> </td>
+  </tr>
+</table>
+
 
 ### Codes
 [Lloyd's algorithm for the computation of Voronoi diagrams](https://github.com/DCN-FAU/Lloyds-algorithm)

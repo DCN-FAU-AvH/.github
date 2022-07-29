@@ -12,7 +12,9 @@
 
 <table style="padding:10px">
   <tr>
-    <td width=250px align="center"> <img src="https://github.com/DCN-FAU-AvH/Lloyds-algorithm/blob/main/Lloyd_algorithm_P350_S6_Dim2x2_I200_N8.gif" height = 150px ></td>
+  <a href="https://github.com/DCN-FAU/Lloyds-algorithm">
+    <td width=250px align="center"> <img src="https://github.com/DCN-FAU-AvH/Lloyds-algorithm/blob/main/Lloyd_algorithm_P350_S6_Dim2x2_I200_N8.gif" height = 150px >       </td>
+    </a>
     <td width = 800px> <a href="https://github.com/DCN-FAU/Lloyds-algorithm">Lloyd's algorithm for the computation of Voronoi diagrams</a> </td>
   </tr>
   <tr>

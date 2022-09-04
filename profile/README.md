@@ -20,7 +20,7 @@
     <td width = 800px> <a href="https://github.com/danielveldman/rbm_lq">The Random Batch Method in Linear Quadratic Optimal Control</a> </td>
   </tr>
   <tr>
-    <td width=250px align="center"> <a href="https://github.com/danielveldman/lq_mpc"> <img src="https://github.com/danielveldman/lq_mpc/blob/main/figures/MPCw_T=41250_tau=1250.jpeg" height = 150px ></a></td>
+    <td width=250px align="center"> <a href="https://github.com/danielveldman/lq_mpc"> <img src="https://github.com/danielveldman/lq_mpc/blob/main/Icon.jpg" height = 150px ></a></td>
     <td width = 800px> <a href="https://github.com/danielveldman/lq_mpc">Model Predictive Control for Discretized Heat and Wave Equations</a> </td>
   </tr>
 </table>

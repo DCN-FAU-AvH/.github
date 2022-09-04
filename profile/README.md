@@ -16,7 +16,7 @@
     <td width = 800px> <a href="https://github.com/DCN-FAU/Lloyds-algorithm">Lloyd's algorithm for the computation of Voronoi diagrams</a> </td>
   </tr>
   <tr>
-    <td width=250px align="center"><a href="https://github.com/danielveldman/rbm_lq"><img src="https://github.com/danielveldman/rbm_lq/blob/main/example3_fractional1D_control2.jpg" height = 150px ></a></td>
+    <td width=250px align="center"><a href="https://github.com/danielveldman/rbm_lq"><img src="https://github.com/danielveldman/rbm_lq/blob/main/Icon.png" height = 150px ></a></td>
     <td width = 800px> <a href="https://github.com/danielveldman/rbm_lq">The Random Batch Method in Linear Quadratic Optimal Control</a> </td>
   </tr>
   <tr>

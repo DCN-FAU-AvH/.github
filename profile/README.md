@@ -16,6 +16,14 @@
 
 <table style="padding:10px">
   <tr>
+    <td width=250px align="center"><a href="https://github.com/DCN-FAU-AvH/pressure_function"><img src="https://github.com/DCN-FAU-AvH/pressure_function/blob/main/Icon.png" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/DCN-FAU-AvH/pressure_function">Derivation of the pressure function</a> <br> <br>
+    by Veronika Riedl <br> <br> <br>
+    See also on our website: <a href="https://dcn.nat.fau.eu/derivation-of-the-pressure-function/">Derivation of the pressure function</a>
+    </td>
+  </tr>
+  <tr>
     <td width=250px align="center"><a href="https://github.com/DCN-FAU/Lloyds-algorithm"><img src="https://github.com/DCN-FAU-AvH/Lloyds-algorithm/blob/main/Lloyd_algorithm_P350_S6_Dim2x2_I200_N8.gif" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/DCN-FAU/Lloyds-algorithm">Lloyd's algorithm for the computation of Voronoi diagrams</a> <br> <br>

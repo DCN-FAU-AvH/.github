@@ -20,7 +20,7 @@
     <td width = 800px> 
     <a href="https://github.com/DCN-FAU/Lloyds-algorithm">Lloyd's algorithm for the computation of Voronoi diagrams</a> <br> <br>
     by <a href="https://github.com/Martinshs">Martin Hernández</a> <br> <br> <br>
-    See also: <a href="https://dcn.nat.fau.eu/lloyds-algorithm/">Lloyd’s Algorithm</a>
+    Posts on our website: <a href="https://dcn.nat.fau.eu/lloyds-algorithm/">Lloyd’s Algorithm</a>
     </td>
   </tr>
   <tr>

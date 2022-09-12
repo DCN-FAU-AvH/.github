@@ -18,7 +18,7 @@
   <tr>
     <td width=250px align="center"><a href="https://github.com/DCN-FAU-AvH/pressure_function"><img src="https://github.com/DCN-FAU-AvH/pressure_function/blob/main/Icon.png" height = 150px ></a></td>
     <td width = 800px> 
-    <a href="https://github.com/DCN-FAU-AvH/pressure_function">Derivation of the pressure function</a> <br> <br>
+    <a href="https://github.com/DCN-FAU-AvH/pressure_function">Numerical computation of the pressure function</a> <br> <br>
     by Veronika Riedl <br> <br> <br>
     See also on our website: <a href="https://dcn.nat.fau.eu/derivation-of-the-pressure-function/">Derivation of the pressure function</a>
     </td>
@@ -35,7 +35,7 @@
     <td width=250px align="center"> <a href="https://github.com/danielveldman/lq_mpc"> <img src="https://github.com/danielveldman/lq_mpc/blob/main/Icon.jpg" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/danielveldman/lq_mpc">Model Predictive Control for Discretized Heat and Wave Equations</a> <br> <br>
-    by <a href="https://github.com/danielveldman">Daniël Veldman</a> 
+    by <a href="https://github.com/danielveldman">Daniël Veldman</a> <br> <br> <br> <br>
     </td>
   </tr>
   <tr>

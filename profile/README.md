@@ -59,7 +59,7 @@
     <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/pyControls"> <img src="https://github.com/DCN-FAU-AvH/pyControls/blob/main/Icon2.png" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/DCN-FAU-AvH/pyControls">pyGasControls Framework</a> <br> <br>
-    by <a href="https://github.com/asikstel">Aleksey Sikstel</a> <br> <br>
+    by <a href="https://github.com/asikstel">Aleksey Stiksel</a> <br> <br>
     See also on our website: <a href="https://dcn.nat.fau.eu/pygascontrols-framework/">pyGasControls Framework</a>, <br>
     <a href="https://dcn.nat.fau.eu/pygascontrols-library-simulation-software/">pyGasControls library (simulation software)</a>
     </td>

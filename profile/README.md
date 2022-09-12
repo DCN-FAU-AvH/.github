@@ -48,6 +48,14 @@
     </td>
   </tr>
   <tr>
+    <td width=250px align="center"><a href="https://github.com/borjanG/2021-dynamical-systems"><img src="https://github.com/borjanG/2021-dynamical-systems/blob/master/videos/trajectory.gif" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/borjanG/2021-dynamical-systems">A neural ODE and ResNet toolbox</a> <br> <br>
+    by <a href="https://github.com/danielveldman">Borjan Geshkovski</a> <br> <br> <br>
+    See also on our website: <a href="https://dcn.nat.fau.eu/hub-the-interplay-of-control-and-deep-learning/">The interplay of control and deep learning</a>
+    </td>
+  </tr>
+  <tr>
     <td width=250px align="center"> <a href="https://github.com/gazcaorozco/alfi_3f"> <img src="https://github.com/DCN-FAU-AvH/.github/blob/main/profile/Icons/Icon-Gazca.png" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/gazcaorozco/alfi_3f">Augmented Lagragian preconditioners for incompressible flow</a> <br> <br>

@@ -39,6 +39,14 @@
     <a href="https://dcn.nat.fau.eu/random-batch-methods-for-linear-quadratic-optimal-control-problems/">Random Batch Methods for Linear-Quadratic Optimal Control Problems</a>
     </td>
   </tr>
+  <tr>
+    <td width=250px align="center"> <a href="https://github.com/gazcaorozco/alfi_3f"> <img src="https://github.com/DCN-FAU-AvH/pyControls/blob/main/Icon2.png" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/gazcaorozco/alfi_3f">Augmented Lagragian preconditioners for incompressible flow</a> <br> <br>
+    by <a href="https://github.com/gazcaorozco/">Alexei Gazca</a> <br> <br> <br>
+    See also: <a href="https://dcn.nat.fau.eu/augmented-lagragian-preconditioners-for-incompressible-flow/">Augmented Lagragian preconditioners for incompressible flow</a>
+    </td>
+  </tr>
     <tr>
     <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/pyControls"> <img src="https://github.com/DCN-FAU-AvH/pyControls/blob/main/Icon2.png" height = 150px ></a></td>
     <td width = 800px> 

@@ -1,5 +1,7 @@
 # Welcome to the DCN-FAU github
 
+Also take a look at our website https://dcn.nat.fau.eu/.
+
 ## Tutorials
 <table style="padding:10px">
   <tr>

@@ -24,6 +24,13 @@
     </td>
   </tr>
   <tr>
+    <td width=250px align="center"> <a href="https://github.com/danielveldman/lq_mpc"> <img src="https://github.com/danielveldman/lq_mpc/blob/main/Icon.jpg" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/danielveldman/lq_mpc">Model Predictive Control for Discretized Heat and Wave Equations</a> <br> <br>
+    by <a href="https://github.com/danielveldman">Daniël Veldman</a> 
+    </td>
+  </tr>
+  <tr>
     <td width=250px align="center"><a href="https://github.com/danielveldman/rbm_lq"><img src="https://github.com/danielveldman/rbm_lq/blob/main/Icon.PNG" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/danielveldman/rbm_lq">The Random Batch Method in Linear Quadratic Optimal Control</a> <br> <br>
@@ -32,13 +39,14 @@
     <a href="https://dcn.nat.fau.eu/random-batch-methods-for-linear-quadratic-optimal-control-problems/">Random Batch Methods for Linear-Quadratic Optimal Control Problems</a>
     </td>
   </tr>
-  <tr>
-    <td width=250px align="center"> <a href="https://github.com/danielveldman/lq_mpc"> <img src="https://github.com/danielveldman/lq_mpc/blob/main/Icon.jpg" height = 150px ></a></td>
+    <tr>
+    <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/pyControls"> <img src="https://github.com/DCN-FAU-AvH/pyControls/blob/main/Icon.png" height = 150px ></a></td>
     <td width = 800px> 
-    <a href="https://github.com/danielveldman/lq_mpc">Model Predictive Control for Discretized Heat and Wave Equations</a> <br> <br>
-    by <a href="https://github.com/danielveldman">Daniël Veldman</a> 
+    <a href="https://github.com/DCN-FAU-AvH/pyControls">pyGasControls Framework</a> <br> <br>
+    by <a href="https://github.com/asikstel">Aleksey Sikstel</a> 
     </td>
   </tr>
+  
 </table>
 
 ## Templates

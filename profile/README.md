@@ -56,6 +56,15 @@
     </td>
   </tr>
   <tr>
+    <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/hamilton_jacobi"> <img src="https://github.com/DCN-FAU-AvH/hamilton_jacobi/blob/main/Icon.png" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/DCN-FAU-AvH/hamilton_jacobi">Hamilton-Jacobi Equations: Inverse Design</a> <br> <br>
+    by Carlos Esteve <br> <br>
+    See also on our website: <a href="https://dcn.nat.fau.eu/hamilton-jacobi-equations-inverse-design/"> Inverse Design For Hamilton-Jacobi Equations</a>, <br>
+    <a href="https://dcn.nat.fau.eu/inverse-design-for-hamilton-jacobi-equations/">Hamilton-Jacobi Equations: Inverse Design</a>
+    </td>
+  </tr>
+  <tr>
     <td width=250px align="center"> <a href="https://github.com/gazcaorozco/alfi_3f"> <img src="https://github.com/DCN-FAU-AvH/.github/blob/main/profile/Icons/Icon-Gazca.png" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/gazcaorozco/alfi_3f">Augmented Lagragian preconditioners for incompressible flow</a> <br> <br>

@@ -73,7 +73,7 @@
     <td width=250px align="center"> <a href="https://github.com/DCN-FAU/DCN_poster_template.git"> <img src="https://github.com/DCN-FAU-AvH/DCN_poster_template/blob/main/poster_icon.PNG" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/DCN-FAU/DCN_poster_template.git">DCN poster template</a> <br> <br>
-    by <a href="https://github.com/danielveldman">Daniël Veldman</a> 
+    by <a href="https://github.com/danielveldman">Daniël Veldman</a> <br> <br> <br> <br>
     </td>
   </tr>
 </table>

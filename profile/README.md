@@ -40,7 +40,7 @@
     </td>
   </tr>
     <tr>
-    <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/pyControls"> <img src="https://github.com/DCN-FAU-AvH/pyControls/blob/main/Icon.png" height = 150px ></a></td>
+    <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/pyControls"> <img src="https://github.com/DCN-FAU-AvH/pyControls/blob/main/Icon2.png" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/DCN-FAU-AvH/pyControls">pyGasControls Framework</a> <br> <br>
     by <a href="https://github.com/asikstel">Aleksey Sikstel</a> 

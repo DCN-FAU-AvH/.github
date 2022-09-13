@@ -18,6 +18,13 @@ Also take a look at our website https://dcn.nat.fau.eu/.
 
 <table style="padding:10px">
   <tr>
+    <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/PINNs_wave_equation"> <img src="https://github.com/DCN-FAU-AvH/robust_neuralODE/blob/master/trajectory.gif" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/DCN-FAU-AvH/PINNs_wave_equation"> Approximating the 1D wave equation using Physics Informed Neural Networks (PINNs) </a> <br> <br> 
+    by Dania Sana <br> <br> <br> <br>
+    </td>
+  </tr>
+  <tr>
     <td width=250px align="center"> <a href="https://github.com/twoehrer/robust_nODE"> <img src="https://github.com/DCN-FAU-AvH/robust_neuralODE/blob/master/trajectory.gif" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/twoehrer/robust_nODE"> Robust training of neural ODEs</a> <br> <br> 

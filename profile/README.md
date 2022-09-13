@@ -18,10 +18,10 @@ Also take a look at our website https://dcn.nat.fau.eu/.
 
 <table style="padding:10px">
   <tr>
-    <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/PINNs_wave_equation"> <img src="https://github.com/DCN-FAU-AvH/robust_neuralODE/blob/master/trajectory.gif" height = 150px ></a></td>
+    <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/PINNs_wave_equation"> <img src="https://github.com/DCN-FAU-AvH/PINNs_wave_equation/blob/main/Icon.png" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/DCN-FAU-AvH/PINNs_wave_equation"> Approximating the 1D wave equation using Physics Informed Neural Networks (PINNs) </a> <br> <br> 
-    by Dania Sana <br> <br> <br> <br>
+    by Dania Sana and <a href="https://github.com/yuewang-math">Yue Wang</a> <br> <br> <br> <br>
     </td>
   </tr>
   <tr>

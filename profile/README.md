@@ -25,7 +25,7 @@ Also take a look at our website https://dcn.nat.fau.eu/.
     </td>
   </tr>
   <tr>
-    <td width=250px align="center"> <a href="https://github.com/twoehrer/robust_nODE"> <img src="https://github.com/DCN-FAU-AvH/robust_neuralODE/blob/master/trajectory.gif" height = 150px ></a></td>
+    <td width=250px align="center"> <a href="https://github.com/twoehrer/robust_nODE"> <img src="https://github.com/DCN-FAU-AvH/.github/blob/main/profile/Icons/Icon_Woehrer.png" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/twoehrer/robust_nODE"> Robust training of neural ODEs</a> <br> <br> 
     by <a href="https://github.com/twoehrer">Tobias Wöhrer</a> <br> <br> <br> <br>

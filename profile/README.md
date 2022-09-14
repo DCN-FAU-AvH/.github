@@ -1,4 +1,4 @@
-# Welcome to the DCN-FAU github
+# Welcome to the DCN-AvH-FAU github
 
 Also take a look at our website https://dcn.nat.fau.eu/.
 

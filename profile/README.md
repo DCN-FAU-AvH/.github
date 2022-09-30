@@ -21,7 +21,8 @@ Also take a look at our website https://dcn.nat.fau.eu/.
     <td width=250px align="center"> <a href="https://github.com/danielveldman/rbm-mpc"> <img src="https://github.com/danielveldman/rbm-mpc/blob/main/Icon.PNG" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/danielveldman/rbm-mpc"> RBM-MPC: Faster Model Predictive Control with Random Batch Methods </a> <br> <br> 
-    by Alexandra Borkowski and <a href="https://github.com/danielveldman">Daniel Veldman</a> <br> <br> <br> <br>
+    by Alexandra Borkowski and <a href="https://github.com/danielveldman">Daniël Veldman</a> <br> <br> 
+      See also on our website: <a href="https://cmc.deusto.eus/model-predictive-control-with-random-batch-method-for-linear-quadratic-optimal-control-introduction-and-matlab-implementation/">Model Predictive Control with Random Batch Method for Linear-Quadratic Optimal Control: Introduction and Matlab Implementation</a> 
     </td>
   </tr>
   <tr>

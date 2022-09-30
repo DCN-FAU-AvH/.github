@@ -18,6 +18,13 @@ Also take a look at our website https://dcn.nat.fau.eu/.
 
 <table style="padding:10px">
   <tr>
+    <td width=250px align="center"> <a href="https://github.com/danielveldman/rbm-mpc"> <img src="https://github.com/danielveldman/rbm-mpc/blob/main/Icon.PNG" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/danielveldman/rbm-mpc"> RBM-MPC: Faster Model Predictive Control with Random Batch Methods </a> <br> <br> 
+    by Alexandra Borkowski and <a href="https://github.com/danielveldman">Daniel Veldman</a> <br> <br> <br> <br>
+    </td>
+  </tr>
+  <tr>
     <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/PINNs_wave_equation"> <img src="https://github.com/DCN-FAU-AvH/PINNs_wave_equation/blob/main/Icon.png" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/DCN-FAU-AvH/PINNs_wave_equation"> Approximating the 1D wave equation using Physics Informed Neural Networks (PINNs) </a> <br> <br> 

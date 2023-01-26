@@ -2,6 +2,12 @@
 
 Also take a look at our website https://dcn.nat.fau.eu/.
 
+## Quick links
+* [Tutorials](#tutorials)
+* [Code repositories](#code-repositories)
+* [Templates](#templates)
+* [Other](#other)
+
 ## Tutorials
 <table style="padding:10px">
   <tr>
@@ -14,7 +20,7 @@ Also take a look at our website https://dcn.nat.fau.eu/.
   </tr>
 </table>
 
-## Codes
+## Code repositories
 
 <table style="padding:10px">
   <tr>

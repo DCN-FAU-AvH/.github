@@ -116,6 +116,13 @@ Also take a look at our website https://dcn.nat.fau.eu/.
     <a href="https://github.com/DCN-FAU/DCN_poster_template.git">DCN poster template</a> <br> <br>
     by <a href="https://github.com/danielveldman">Daniël Veldman</a> <br> <br> <br> <br>
     </td>
+   </tr>
+   <tr>
+    <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/DFG-Form53.01-2023.git"> <img src="https://github.com/DCN-FAU-AvH/DFG-Form53.01-2023/blob/main/img/DFG-form-icon.png" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/DCN-FAU-AvH/DFG-Form53.01-2023.git">LaTeX template for DFG form 53.01</a> <br> <br>
+    by <a href="https://github.com/giofantuzzi">Giovanni Fantuzzi</a> <br> <br> <br> <br>
+    </td>
   </tr>
 </table>
 

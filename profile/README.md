@@ -19,10 +19,17 @@ Also take a look at our website https://dcn.nat.fau.eu/.
     </td>
   </tr>
 </table>
-
 ## Code repositories
 
 <table style="padding:10px">
+    <tr>
+    <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/FL-FedAvg"> <img src="https://github.com/DCN-FAU-AvH/.github/blob/main/profile/Icons/Icon_FL.png" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/DCN-FAU-AvH/FL-FedAvg"> An implementation of the FedAvg algorithm </a> <br> <br> 
+    by <a href="https://github.com/iziqi">Ziqi Wang</a> <br> <br> 
+      See also on our website: <a href="https://dcn.nat.fau.eu/federated-learning-protect-your-data-and-privacy/">Federated Learning: Protect your data and privacy</a> 
+    </td>
+  </tr>
   <tr>
     <td width=250px align="center"> <a href="https://github.com/danielveldman/rbm-mpc"> <img src="https://github.com/danielveldman/rbm-mpc/blob/main/Icon.PNG" height = 150px ></a></td>
     <td width = 800px> 
@@ -111,7 +118,7 @@ Also take a look at our website https://dcn.nat.fau.eu/.
     <a href="https://dcn.nat.fau.eu/pygascontrols-library-simulation-software/">pyGasControls library (simulation software)</a>
     </td>
   </tr>
-  
+
 </table>
 
 ## Templates

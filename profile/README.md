@@ -23,7 +23,7 @@ Also take a look at our website https://dcn.nat.fau.eu/.
 
 <table style="padding:10px">
     <tr>
-    <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/FL-FedAvg"> <img src="https://github.com/DCN-FAU-AvH/.github/blob/main/profile/Icons/Icon_FL.png" height = 150px ></a></td>
+    <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/FL-FedAvg"> <img src="https://github.com/DCN-FAU-AvH/.github/blob/main/profile/Icons/icon_FL.png" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/DCN-FAU-AvH/FL-FedAvg"> An implementation of the FedAvg algorithm </a> <br> <br> 
     by <a href="https://github.com/iziqi">Ziqi Wang</a> <br> <br> 

@@ -141,7 +141,7 @@ Also take a look at our website https://dcn.nat.fau.eu/.
   <tr>
     <td width=250px align="center"> 
       <a href="https://github.com/DCN-FAU-AvH/fau-letter-templates.git">
-        <img src="https://github.com/DCN-FAU-AvH/fau-letter-templates/letter.png" height = 150px>
+        <img src="https://github.com/DCN-FAU-AvH/fau-letter-templates/blob/master/letter.png" height = 150px>
       </a>
     </td>
     <td width = 800px> 

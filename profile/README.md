@@ -23,10 +23,18 @@ Also take a look at our website https://dcn.nat.fau.eu/.
 ## Code repositories
 
 <table style="padding:10px">
-    <tr>
+  <tr>
+    <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/RL-cart"> <img src="https://github.com/DCN-FAU-AvH/RL-cart/blob/main/cart.gif" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/DCN-FAU-AvH/FL-FedAvg"> Reinforcement Learning for Control </a> <br> <br> 
+    by <a href="https://github.com/iziqi">Theïlo Terrisse</a> <br> <br> 
+      See also on our website: <a href="https://dcn.nat.fau.eu/reinforcement-learning-as-a-new-perspective-into-controlling-physical-systems/">Reinforcement learning as a new perspective into controlling physical systems</a> 
+    </td>
+  </tr>
+  <tr>
     <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/FL-FedAvg"> <img src="https://github.com/DCN-FAU-AvH/.github/blob/main/profile/Icons/icon_FL.png" height = 150px ></a></td>
     <td width = 800px> 
-    <a href="https://github.com/DCN-FAU-AvH/FL-FedAvg"> An implementation of the FedAvg algorithm </a> <br> <br> 
+    <a href="https://github.com/DCN-FAU-AvH/FL-FedAvg"> An Implementation of the FedAvg Algorithm </a> <br> <br> 
     by <a href="https://github.com/iziqi">Ziqi Wang</a> <br> <br> 
       See also on our website: <a href="https://dcn.nat.fau.eu/federated-learning-protect-your-data-and-privacy/">Federated Learning: Protect your data and privacy</a> 
     </td>
@@ -110,7 +118,7 @@ Also take a look at our website https://dcn.nat.fau.eu/.
     See also on our website: <a href="https://dcn.nat.fau.eu/augmented-lagragian-preconditioners-for-incompressible-flow/">Augmented Lagragian preconditioners for incompressible flow</a>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/pyControls"> <img src="https://github.com/DCN-FAU-AvH/pyControls/blob/main/Icon2.png" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/DCN-FAU-AvH/pyControls">pyGasControls Framework</a> <br> <br>
@@ -119,6 +127,7 @@ Also take a look at our website https://dcn.nat.fau.eu/.
     <a href="https://dcn.nat.fau.eu/pygascontrols-library-simulation-software/">pyGasControls library (simulation software)</a>
     </td>
   </tr>
+  
 
 </table>
 

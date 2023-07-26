@@ -26,8 +26,8 @@ Also take a look at our website https://dcn.nat.fau.eu/.
   <tr>
     <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/RL-cart"> <img src="https://github.com/DCN-FAU-AvH/RL-cart/blob/main/cart.gif" height = 150px ></a></td>
     <td width = 800px> 
-    <a href="https://github.com/DCN-FAU-AvH/FL-FedAvg"> Reinforcement Learning for Control </a> <br> <br> 
-    by <a href="https://github.com/iziqi">Theïlo Terrisse</a> <br> <br> 
+    <a href="https://github.com/DCN-FAU-AvH/RL-cart"> Reinforcement Learning for Control </a> <br> <br> 
+    by Theïlo Terrisse<br> <br> 
       See also on our website: <a href="https://dcn.nat.fau.eu/reinforcement-learning-as-a-new-perspective-into-controlling-physical-systems/">Reinforcement learning as a new perspective into controlling physical systems</a> 
     </td>
   </tr>

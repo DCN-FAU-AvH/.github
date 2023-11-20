@@ -23,6 +23,14 @@ Also take a look at our website https://dcn.nat.fau.eu/.
 ## Code repositories
 
 <table style="padding:10px">
+   <tr>
+    <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/pinns_heat"> <img src="https://github.com/DCN-FAU-AvH/pinns_heat/blob/master/results/test_example_2_20231113-230629/0_video_u.gif" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/DCN-FAU-AvH/pinns_heat"> PINNs Introductory Code for the Heat Equation </a> <br> <br> 
+    by <a href="https://github.com/iziqi">Ziqi Wang</a> and <a href="https://github.com/Martinshs">Martin Hernández</a> <br> <br> 
+      See also on our website: <a href="https://dcn.nat.fau.eu/reinforcement-learning-as-a-new-perspective-into-controlling-physical-systems/">PINNs Introductory Code for the Heat Equation</a> 
+    </td>
+  </tr>
   <tr>
     <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/RL-cart"> <img src="https://github.com/DCN-FAU-AvH/RL-cart/blob/main/cart.gif" height = 150px ></a></td>
     <td width = 800px> 
